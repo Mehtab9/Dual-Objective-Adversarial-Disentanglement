@@ -18,7 +18,7 @@ Recently, the challenge of protecting privacy-sensitive information in speech da
 }
 ```
 
-### Citation (APA)
+### APA
 
 Rahman, M. U., Larson, M., ten Bosch, L., & Tejedor-García, C. (2025, October). Dual-Objective Adversarial Disentanglement for Protecting Speech Data used for Diagnosing Parkinson's Disease. In 2025 International Conference on Content-Based Multimedia Indexing (CBMI) (pp. 1-6). IEEE.
 
